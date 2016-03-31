@@ -4,3 +4,6 @@
 .tamanio_fuente{
 	font-size: 20px;
 }
+.panel_warning{
+	display: none;
+}
