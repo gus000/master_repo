@@ -7,3 +7,6 @@
 .panel_warning{
 	display: none;
 }
+.modal p{
+	width: 600px auto;
+}
